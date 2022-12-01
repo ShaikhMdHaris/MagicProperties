@@ -1,7 +1,5 @@
 <h1 align="center">Real Estate Web Application 📊 </h1>
 
-[![Daily Visitors](https://visitor-badge.glitch.me/badge?page_id=SayanDeveloper.slider) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://github.com/SayanDeveloper/slider)
-
 <pre>
 <img src="https://user-images.githubusercontent.com/115393657/194775092-20175c82-affd-4a39-ab4e-e25f48f5d69e.png" width="1000"> 
 </pre>
